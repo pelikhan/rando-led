@@ -31,3 +31,5 @@ basic.forever(function () {
     led.toggle(Math.randomRange(0, 4), Math.randomRange(0, 4))
 })
 ```
+
+<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
